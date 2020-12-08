@@ -7,7 +7,7 @@ namespace _1.BuilderPattern
     //Create a product class - HTMLElement
     public class HTMLElement
     {
-        public string Name { get; set; }
+        public string Name { get; set; } 
 
         public string Text { get; set; }
 
