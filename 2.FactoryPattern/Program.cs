@@ -17,14 +17,15 @@ namespace _2.FactoryPattern
 
             //1. Factory Pattern
             Console.WriteLine("---Factory Pattern---");
-            var truck1 = VehicleFactory.NewTruck();
-            truck1.Delivery();
+            VehicleFactory vf = new VehicleFactory();
+            Vehicle truckVehicle = vf.NewTruck();
+            truckVehicle.Delivery();
 
-            var ship1 = VehicleFactory.NewShip();
-            ship1.Delivery();
+            Vehicle shipVehicle = vf.NewShip();
+            shipVehicle.Delivery();
 
-            var airplane = VehicleFactory.NewAirplane();
-            airplane.Delivery();
+            Vehicle airplaneVehicle = vf.NewAirplane();
+            airplaneVehicle.Delivery();
         }
     }
 
@@ -70,36 +71,80 @@ namespace _2.FactoryPattern
         Airplane
     }
 
-    public class Vehicle
+    public abstract class Vehicle
     {
-        public string Type { get; set; }
+        public abstract string Type { get; set;  }
 
-        public Vehicle(VehicleType type)
+        public abstract void Delivery();
+    }
+
+    public class TruckVehicle : Vehicle
+    {
+        public TruckVehicle()
         {
-            Type = type.ToString();
+            Type = VehicleType.Truck.ToString();
         }
 
-        public void Delivery()
+        public override string Type { get; set; }
+
+        public override void Delivery()
         {
             Console.WriteLine($"{Type} is used for delivery.");
         }
     }
 
-    public class VehicleFactory
-    { 
-        public static Vehicle NewTruck()
+    public class ShipVehicle : Vehicle
+    {
+        public ShipVehicle()
         {
-            return new Vehicle(VehicleType.Truck);
+            Type = VehicleType.Ship.ToString();
         }
 
-        public static Vehicle NewShip()
+        public override string Type { get; set; }
+
+        public override void Delivery()
         {
-            return new Vehicle(VehicleType.Ship);
+            Console.WriteLine($"{Type} is used for delivery.");
+        }
+    }
+
+    public class AirplaneVehicle : Vehicle
+    {
+        public AirplaneVehicle()
+        {
+            Type = VehicleType.Airplane.ToString();
         }
 
-        public static Vehicle NewAirplane()
+        public override string Type { get; set; }
+
+        public override void Delivery()
         {
-            return new Vehicle(VehicleType.Airplane);
+            Console.WriteLine($"{Type} is used for delivery.");
+        }
+    }
+
+    public interface IVehicleFactory
+    {
+        Vehicle NewTruck();
+        Vehicle NewShip();
+        Vehicle NewAirplane();
+    }
+
+    public class VehicleFactory : IVehicleFactory
+    {
+        public Vehicle NewAirplane()
+        {
+            return new AirplaneVehicle();
+        }
+
+        public Vehicle NewShip()
+        {
+            return new ShipVehicle();
+        }
+
+        public Vehicle NewTruck()
+        {
+            return new TruckVehicle();
         }
     }
     //End 1. Factory Pattern
