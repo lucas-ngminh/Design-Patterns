@@ -7,3 +7,5 @@
 /.vs/DesignPatterns
 /2.FactoryPattern/obj
 /2.FactoryPattern/bin/Debug/netcoreapp3.1
+/3.PrototypePattern/obj
+/3.PrototypePattern/bin/Debug/netcoreapp3.1
