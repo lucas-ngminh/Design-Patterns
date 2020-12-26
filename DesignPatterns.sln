@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.BuilderPattern", "1.BuilderPattern\1.BuilderPattern.csproj", "{FFD3DF81-B79B-4332-A58B-AE3BDD74AF94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BuilderPattern", "1.BuilderPattern\01.BuilderPattern.csproj", "{FFD3DF81-B79B-4332-A58B-AE3BDD74AF94}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.FactoryPattern", "2.FactoryPattern\2.FactoryPattern.csproj", "{F013B89C-A8AC-4000-A34E-041D7D8DA1D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.FactoryPattern", "2.FactoryPattern\02.FactoryPattern.csproj", "{F013B89C-A8AC-4000-A34E-041D7D8DA1D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.PrototypePattern", "3.PrototypePattern\3.PrototypePattern.csproj", "{A06F65A5-1C6B-4463-8054-40FE5B8E887F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.PrototypePattern", "3.PrototypePattern\03.PrototypePattern.csproj", "{A06F65A5-1C6B-4463-8054-40FE5B8E887F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.SingletonPattern", "4.SingletonPattern\4.SingletonPattern.csproj", "{85D3AA34-A530-4703-914B-D035DD10D01F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SingletonPattern", "4.SingletonPattern\04.SingletonPattern.csproj", "{85D3AA34-A530-4703-914B-D035DD10D01F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.AdapterPattern", "5.AdapterPattern\5.AdapterPattern.csproj", "{289AF616-E79D-49B7-AB9E-AFE1405CCEEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AdapterPattern", "5.AdapterPattern\05.AdapterPattern.csproj", "{289AF616-E79D-49B7-AB9E-AFE1405CCEEF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.BridgePattern", "6.BridgePattern\6.BridgePattern.csproj", "{4040EA7D-DADC-4A7E-A045-2A0F623EA546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.BridgePattern", "6.BridgePattern\06.BridgePattern.csproj", "{4040EA7D-DADC-4A7E-A045-2A0F623EA546}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.CompositePattern", "7.CompositePattern\7.CompositePattern.csproj", "{974BADB1-6344-4C46-BB46-B3FA91DF8027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.CompositePattern", "7.CompositePattern\07.CompositePattern.csproj", "{974BADB1-6344-4C46-BB46-B3FA91DF8027}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.DecoratorPattern", "8.DecoratorPattern\8.DecoratorPattern.csproj", "{A29D1A42-C07F-42E0-894A-93A2A21E02E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.DecoratorPattern", "8.DecoratorPattern\08.DecoratorPattern.csproj", "{A29D1A42-C07F-42E0-894A-93A2A21E02E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.FacadePattern", "9.FacadePattern\9.FacadePattern.csproj", "{42125D42-3B39-4468-89FF-59E2909E687C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.FacadePattern", "9.FacadePattern\09.FacadePattern.csproj", "{42125D42-3B39-4468-89FF-59E2909E687C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.FlyweightPattern", "FlyweightPattern\10.FlyweightPattern.csproj", "{4613C491-608C-462E-B06D-D037AAFDE638}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{42125D42-3B39-4468-89FF-59E2909E687C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42125D42-3B39-4468-89FF-59E2909E687C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42125D42-3B39-4468-89FF-59E2909E687C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4613C491-608C-462E-B06D-D037AAFDE638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4613C491-608C-462E-B06D-D037AAFDE638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4613C491-608C-462E-B06D-D037AAFDE638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4613C491-608C-462E-B06D-D037AAFDE638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
