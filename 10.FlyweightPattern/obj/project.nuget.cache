@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hLGkCdIZz8WnBv0E+IB5q/awjBnhcDiTbHv7cAIX9bphJdCRIxEvVxw+qse1fVnemmADttG5UHuuKUfmiD1egg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Documents\\Visual Studio 2019\\Projects\\Design-Patterns\\10.FlyweightPattern\\10.FlyweightPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

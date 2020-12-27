@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\bin\Debug\netcoreapp3.1\8.DecoratorPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\bin\Debug\netcoreapp3.1\8.DecoratorPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\bin\Debug\netcoreapp3.1\8.DecoratorPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\bin\Debug\netcoreapp3.1\8.DecoratorPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\bin\Debug\netcoreapp3.1\8.DecoratorPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\bin\Debug\netcoreapp3.1\8.DecoratorPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\obj\Debug\netcoreapp3.1\8.DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\obj\Debug\netcoreapp3.1\8.DecoratorPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\obj\Debug\netcoreapp3.1\8.DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\obj\Debug\netcoreapp3.1\8.DecoratorPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\obj\Debug\netcoreapp3.1\8.DecoratorPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\obj\Debug\netcoreapp3.1\8.DecoratorPattern.genruntimeconfig.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\8.DecoratorPattern\obj\Debug\netcoreapp3.1\8.DecoratorPattern.csprojAssemblyReference.cache

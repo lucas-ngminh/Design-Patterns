@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\bin\Debug\netcoreapp3.1\3.PrototypePattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\bin\Debug\netcoreapp3.1\3.PrototypePattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\bin\Debug\netcoreapp3.1\3.PrototypePattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\bin\Debug\netcoreapp3.1\3.PrototypePattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\bin\Debug\netcoreapp3.1\3.PrototypePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\bin\Debug\netcoreapp3.1\3.PrototypePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\obj\Debug\netcoreapp3.1\3.PrototypePattern.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\obj\Debug\netcoreapp3.1\3.PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\obj\Debug\netcoreapp3.1\3.PrototypePattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\obj\Debug\netcoreapp3.1\3.PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\obj\Debug\netcoreapp3.1\3.PrototypePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\obj\Debug\netcoreapp3.1\3.PrototypePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\3.PrototypePattern\obj\Debug\netcoreapp3.1\3.PrototypePattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\bin\Debug\netcoreapp3.1\2.FactoryPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\bin\Debug\netcoreapp3.1\2.FactoryPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\bin\Debug\netcoreapp3.1\2.FactoryPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\bin\Debug\netcoreapp3.1\2.FactoryPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\bin\Debug\netcoreapp3.1\2.FactoryPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\bin\Debug\netcoreapp3.1\2.FactoryPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\obj\Debug\netcoreapp3.1\2.FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\obj\Debug\netcoreapp3.1\2.FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\obj\Debug\netcoreapp3.1\2.FactoryPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\obj\Debug\netcoreapp3.1\2.FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\obj\Debug\netcoreapp3.1\2.FactoryPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\obj\Debug\netcoreapp3.1\2.FactoryPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\2.FactoryPattern\obj\Debug\netcoreapp3.1\2.FactoryPattern.genruntimeconfig.cache

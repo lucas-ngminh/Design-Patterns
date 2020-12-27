@@ -1,0 +1,15 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\bin\Debug\netcoreapp3.1\4.SingletonPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\obj\Debug\netcoreapp3.1\4.SingletonPattern.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\obj\Debug\netcoreapp3.1\4.SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\obj\Debug\netcoreapp3.1\4.SingletonPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\bin\Debug\netcoreapp3.1\4.SingletonPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\bin\Debug\netcoreapp3.1\4.SingletonPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\bin\Debug\netcoreapp3.1\4.SingletonPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\bin\Debug\netcoreapp3.1\4.SingletonPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\bin\Debug\netcoreapp3.1\4.SingletonPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\obj\Debug\netcoreapp3.1\4.SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\obj\Debug\netcoreapp3.1\4.SingletonPattern.csproj.CopyComplete
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\obj\Debug\netcoreapp3.1\4.SingletonPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\obj\Debug\netcoreapp3.1\4.SingletonPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\4.SingletonPattern\obj\Debug\netcoreapp3.1\4.SingletonPattern.genruntimeconfig.cache

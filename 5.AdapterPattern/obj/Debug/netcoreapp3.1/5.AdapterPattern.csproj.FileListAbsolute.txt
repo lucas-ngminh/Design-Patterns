@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\bin\Debug\netcoreapp3.1\5.AdapterPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\bin\Debug\netcoreapp3.1\5.AdapterPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\bin\Debug\netcoreapp3.1\5.AdapterPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\bin\Debug\netcoreapp3.1\5.AdapterPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\bin\Debug\netcoreapp3.1\5.AdapterPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\bin\Debug\netcoreapp3.1\5.AdapterPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\obj\Debug\netcoreapp3.1\5.AdapterPattern.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\obj\Debug\netcoreapp3.1\5.AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\obj\Debug\netcoreapp3.1\5.AdapterPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\obj\Debug\netcoreapp3.1\5.AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\obj\Debug\netcoreapp3.1\5.AdapterPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\obj\Debug\netcoreapp3.1\5.AdapterPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\5.AdapterPattern\obj\Debug\netcoreapp3.1\5.AdapterPattern.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\bin\Debug\netcoreapp3.1\6.BridgePattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\bin\Debug\netcoreapp3.1\6.BridgePattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\bin\Debug\netcoreapp3.1\6.BridgePattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\bin\Debug\netcoreapp3.1\6.BridgePattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\bin\Debug\netcoreapp3.1\6.BridgePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\bin\Debug\netcoreapp3.1\6.BridgePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\obj\Debug\netcoreapp3.1\6.BridgePattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\obj\Debug\netcoreapp3.1\6.BridgePattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\obj\Debug\netcoreapp3.1\6.BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\obj\Debug\netcoreapp3.1\6.BridgePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\obj\Debug\netcoreapp3.1\6.BridgePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\6.BridgePattern\obj\Debug\netcoreapp3.1\6.BridgePattern.genruntimeconfig.cache

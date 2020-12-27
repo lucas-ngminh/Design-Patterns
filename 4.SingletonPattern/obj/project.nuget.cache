@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHri9O7+NU/Q8bAqf+wQblW/W17uMxjkzw/KV4asjwLyu8TpwNS+Idr1bgwdcKd77VD8g62ODc1hPO5mA+0AQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Documents\\Visual Studio 2019\\Projects\\Design-Patterns\\4.SingletonPattern\\04.SingletonPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

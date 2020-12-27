@@ -1,0 +1,14 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\bin\Debug\netcoreapp3.1\10.FlyweightPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\obj\Debug\netcoreapp3.1\10.FlyweightPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\obj\Debug\netcoreapp3.1\10.FlyweightPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\bin\Debug\netcoreapp3.1\10.FlyweightPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\bin\Debug\netcoreapp3.1\10.FlyweightPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\bin\Debug\netcoreapp3.1\10.FlyweightPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\bin\Debug\netcoreapp3.1\10.FlyweightPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\bin\Debug\netcoreapp3.1\10.FlyweightPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\obj\Debug\netcoreapp3.1\10.FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\obj\Debug\netcoreapp3.1\10.FlyweightPattern.csproj.CopyComplete
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\obj\Debug\netcoreapp3.1\10.FlyweightPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\obj\Debug\netcoreapp3.1\10.FlyweightPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\FlyweightPattern\obj\Debug\netcoreapp3.1\10.FlyweightPattern.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\obj\Debug\netcoreapp3.1\9.FacadePattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\obj\Debug\netcoreapp3.1\9.FacadePattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\obj\Debug\netcoreapp3.1\9.FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\bin\Debug\netcoreapp3.1\9.FacadePattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\bin\Debug\netcoreapp3.1\9.FacadePattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\bin\Debug\netcoreapp3.1\9.FacadePattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\bin\Debug\netcoreapp3.1\9.FacadePattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\bin\Debug\netcoreapp3.1\9.FacadePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\bin\Debug\netcoreapp3.1\9.FacadePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\obj\Debug\netcoreapp3.1\9.FacadePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\obj\Debug\netcoreapp3.1\9.FacadePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\9.FacadePattern\obj\Debug\netcoreapp3.1\9.FacadePattern.genruntimeconfig.cache

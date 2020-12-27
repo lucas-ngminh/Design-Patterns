@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\bin\Debug\netcoreapp3.1\7.CompositePattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\bin\Debug\netcoreapp3.1\7.CompositePattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\bin\Debug\netcoreapp3.1\7.CompositePattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\bin\Debug\netcoreapp3.1\7.CompositePattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\bin\Debug\netcoreapp3.1\7.CompositePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\bin\Debug\netcoreapp3.1\7.CompositePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\obj\Debug\netcoreapp3.1\7.CompositePattern.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\obj\Debug\netcoreapp3.1\7.CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\obj\Debug\netcoreapp3.1\7.CompositePattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\obj\Debug\netcoreapp3.1\7.CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\obj\Debug\netcoreapp3.1\7.CompositePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\obj\Debug\netcoreapp3.1\7.CompositePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\7.CompositePattern\obj\Debug\netcoreapp3.1\7.CompositePattern.genruntimeconfig.cache
