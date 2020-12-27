@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\bin\Debug\netcoreapp3.1\11.ProxyPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\bin\Debug\netcoreapp3.1\11.ProxyPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\bin\Debug\netcoreapp3.1\11.ProxyPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\bin\Debug\netcoreapp3.1\11.ProxyPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\bin\Debug\netcoreapp3.1\11.ProxyPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\bin\Debug\netcoreapp3.1\11.ProxyPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\obj\Debug\netcoreapp3.1\11.ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\obj\Debug\netcoreapp3.1\11.ProxyPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\obj\Debug\netcoreapp3.1\11.ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\obj\Debug\netcoreapp3.1\11.ProxyPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\obj\Debug\netcoreapp3.1\11.ProxyPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\11.ProxyPattern\obj\Debug\netcoreapp3.1\11.ProxyPattern.genruntimeconfig.cache
