@@ -1,0 +1,13 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\bin\Debug\netcoreapp3.1\13.CommandPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\bin\Debug\netcoreapp3.1\13.CommandPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\bin\Debug\netcoreapp3.1\13.CommandPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\bin\Debug\netcoreapp3.1\13.CommandPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\bin\Debug\netcoreapp3.1\13.CommandPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\bin\Debug\netcoreapp3.1\13.CommandPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\obj\Debug\netcoreapp3.1\13.CommandPattern.csprojAssemblyReference.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\obj\Debug\netcoreapp3.1\13.CommandPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\obj\Debug\netcoreapp3.1\13.CommandPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\obj\Debug\netcoreapp3.1\13.CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\obj\Debug\netcoreapp3.1\13.CommandPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\obj\Debug\netcoreapp3.1\13.CommandPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\13.CommandPattern\obj\Debug\netcoreapp3.1\13.CommandPattern.genruntimeconfig.cache
