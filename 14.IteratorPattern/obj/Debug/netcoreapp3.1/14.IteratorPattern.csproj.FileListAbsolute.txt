@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\bin\Debug\netcoreapp3.1\14.IteratorPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\bin\Debug\netcoreapp3.1\14.IteratorPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\bin\Debug\netcoreapp3.1\14.IteratorPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\bin\Debug\netcoreapp3.1\14.IteratorPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\bin\Debug\netcoreapp3.1\14.IteratorPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\bin\Debug\netcoreapp3.1\14.IteratorPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\obj\Debug\netcoreapp3.1\14.IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\obj\Debug\netcoreapp3.1\14.IteratorPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\obj\Debug\netcoreapp3.1\14.IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\obj\Debug\netcoreapp3.1\14.IteratorPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\obj\Debug\netcoreapp3.1\14.IteratorPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\14.IteratorPattern\obj\Debug\netcoreapp3.1\14.IteratorPattern.genruntimeconfig.cache
