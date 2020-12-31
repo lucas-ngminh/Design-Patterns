@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\bin\Debug\netcoreapp3.1\15.MediatorPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\bin\Debug\netcoreapp3.1\15.MediatorPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\bin\Debug\netcoreapp3.1\15.MediatorPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\bin\Debug\netcoreapp3.1\15.MediatorPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\bin\Debug\netcoreapp3.1\15.MediatorPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\bin\Debug\netcoreapp3.1\15.MediatorPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\obj\Debug\netcoreapp3.1\15.MediatorPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\obj\Debug\netcoreapp3.1\15.MediatorPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\obj\Debug\netcoreapp3.1\15.MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\obj\Debug\netcoreapp3.1\15.MediatorPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\obj\Debug\netcoreapp3.1\15.MediatorPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\15.MediatorPattern\obj\Debug\netcoreapp3.1\15.MediatorPattern.genruntimeconfig.cache
