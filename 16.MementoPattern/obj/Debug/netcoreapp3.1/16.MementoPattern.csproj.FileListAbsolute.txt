@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\bin\Debug\netcoreapp3.1\16.MementoPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\bin\Debug\netcoreapp3.1\16.MementoPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\bin\Debug\netcoreapp3.1\16.MementoPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\bin\Debug\netcoreapp3.1\16.MementoPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\bin\Debug\netcoreapp3.1\16.MementoPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\bin\Debug\netcoreapp3.1\16.MementoPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\obj\Debug\netcoreapp3.1\16.MementoPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\obj\Debug\netcoreapp3.1\16.MementoPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\obj\Debug\netcoreapp3.1\16.MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\obj\Debug\netcoreapp3.1\16.MementoPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\obj\Debug\netcoreapp3.1\16.MementoPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\16.MementoPattern\obj\Debug\netcoreapp3.1\16.MementoPattern.genruntimeconfig.cache
