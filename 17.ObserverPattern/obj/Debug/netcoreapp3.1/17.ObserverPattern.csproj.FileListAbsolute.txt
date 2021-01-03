@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\obj\Debug\netcoreapp3.1\17.ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\obj\Debug\netcoreapp3.1\17.ObserverPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\obj\Debug\netcoreapp3.1\17.ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\bin\Debug\netcoreapp3.1\17.ObserverPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\bin\Debug\netcoreapp3.1\17.ObserverPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\bin\Debug\netcoreapp3.1\17.ObserverPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\bin\Debug\netcoreapp3.1\17.ObserverPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\bin\Debug\netcoreapp3.1\17.ObserverPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\bin\Debug\netcoreapp3.1\17.ObserverPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\obj\Debug\netcoreapp3.1\17.ObserverPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\obj\Debug\netcoreapp3.1\17.ObserverPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\17.ObserverPattern\obj\Debug\netcoreapp3.1\17.ObserverPattern.genruntimeconfig.cache
