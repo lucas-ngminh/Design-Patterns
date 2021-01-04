@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\bin\Debug\netcoreapp3.1\19.TemplateMethodPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\bin\Debug\netcoreapp3.1\19.TemplateMethodPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\bin\Debug\netcoreapp3.1\19.TemplateMethodPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\bin\Debug\netcoreapp3.1\19.TemplateMethodPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\bin\Debug\netcoreapp3.1\19.TemplateMethodPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\bin\Debug\netcoreapp3.1\19.TemplateMethodPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\obj\Debug\netcoreapp3.1\19.TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\obj\Debug\netcoreapp3.1\19.TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\obj\Debug\netcoreapp3.1\19.TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\obj\Debug\netcoreapp3.1\19.TemplateMethodPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\obj\Debug\netcoreapp3.1\19.TemplateMethodPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\19.TemplateMethodPattern\obj\Debug\netcoreapp3.1\19.TemplateMethodPattern.genruntimeconfig.cache
