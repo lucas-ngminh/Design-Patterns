@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\bin\Debug\netcoreapp3.1\18.StatePattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\bin\Debug\netcoreapp3.1\18.StatePattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\bin\Debug\netcoreapp3.1\18.StatePattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\bin\Debug\netcoreapp3.1\18.StatePattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\bin\Debug\netcoreapp3.1\18.StatePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\bin\Debug\netcoreapp3.1\18.StatePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\obj\Debug\netcoreapp3.1\18.StatePattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\obj\Debug\netcoreapp3.1\18.StatePattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\obj\Debug\netcoreapp3.1\18.StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\obj\Debug\netcoreapp3.1\18.StatePattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\obj\Debug\netcoreapp3.1\18.StatePattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\18.StatePattern\obj\Debug\netcoreapp3.1\18.StatePattern.genruntimeconfig.cache

@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.IteratorPattern", "14.It
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.MediatorPattern", "15.MediatorPattern\15.MediatorPattern.csproj", "{C8DCFF04-336C-4427-B6AA-1F6F4899686D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.MementoPattern", "16.MementoPattern\16.MementoPattern.csproj", "{2CC71E3B-C0AE-47C2-8402-418E1AEA9C70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.MementoPattern", "16.MementoPattern\16.MementoPattern.csproj", "{2CC71E3B-C0AE-47C2-8402-418E1AEA9C70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.ObserverPattern", "17.ObserverPattern\17.ObserverPattern.csproj", "{C419661F-8002-4F90-BE82-19DB40042336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.ObserverPattern", "17.ObserverPattern\17.ObserverPattern.csproj", "{C419661F-8002-4F90-BE82-19DB40042336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.StatePattern", "18.StatePattern\18.StatePattern.csproj", "{8F9487D7-4DE3-4F2E-BCFC-A51FDE42950D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{C419661F-8002-4F90-BE82-19DB40042336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C419661F-8002-4F90-BE82-19DB40042336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C419661F-8002-4F90-BE82-19DB40042336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9487D7-4DE3-4F2E-BCFC-A51FDE42950D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9487D7-4DE3-4F2E-BCFC-A51FDE42950D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9487D7-4DE3-4F2E-BCFC-A51FDE42950D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9487D7-4DE3-4F2E-BCFC-A51FDE42950D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
