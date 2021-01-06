@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.MementoPattern", "16.Mem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.ObserverPattern", "17.ObserverPattern\17.ObserverPattern.csproj", "{C419661F-8002-4F90-BE82-19DB40042336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.StatePattern", "18.StatePattern\18.StatePattern.csproj", "{8F9487D7-4DE3-4F2E-BCFC-A51FDE42950D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.StatePattern", "18.StatePattern\18.StatePattern.csproj", "{8F9487D7-4DE3-4F2E-BCFC-A51FDE42950D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.TemplateMethodPattern", "19.TemplateMethodPattern\19.TemplateMethodPattern.csproj", "{74555A59-EB24-47DE-959D-A0F7FD4CC32A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.TemplateMethodPattern", "19.TemplateMethodPattern\19.TemplateMethodPattern.csproj", "{74555A59-EB24-47DE-959D-A0F7FD4CC32A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.StrategyPattern", "20.StrategyPattern\20.StrategyPattern.csproj", "{9DB6E538-DB2C-47F8-A8B4-5913814302BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{74555A59-EB24-47DE-959D-A0F7FD4CC32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74555A59-EB24-47DE-959D-A0F7FD4CC32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74555A59-EB24-47DE-959D-A0F7FD4CC32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB6E538-DB2C-47F8-A8B4-5913814302BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB6E538-DB2C-47F8-A8B4-5913814302BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB6E538-DB2C-47F8-A8B4-5913814302BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB6E538-DB2C-47F8-A8B4-5913814302BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
