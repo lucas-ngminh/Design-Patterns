@@ -1,0 +1,12 @@
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\bin\Debug\netcoreapp3.1\21.VisitorPattern.exe
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\bin\Debug\netcoreapp3.1\21.VisitorPattern.deps.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\bin\Debug\netcoreapp3.1\21.VisitorPattern.runtimeconfig.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\bin\Debug\netcoreapp3.1\21.VisitorPattern.runtimeconfig.dev.json
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\bin\Debug\netcoreapp3.1\21.VisitorPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\bin\Debug\netcoreapp3.1\21.VisitorPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\obj\Debug\netcoreapp3.1\21.VisitorPattern.AssemblyInfoInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\obj\Debug\netcoreapp3.1\21.VisitorPattern.AssemblyInfo.cs
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\obj\Debug\netcoreapp3.1\21.VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\obj\Debug\netcoreapp3.1\21.VisitorPattern.dll
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\obj\Debug\netcoreapp3.1\21.VisitorPattern.pdb
+C:\Users\Hoang\Documents\Visual Studio 2019\Projects\Design-Patterns\21.VisitorPattern\obj\Debug\netcoreapp3.1\21.VisitorPattern.genruntimeconfig.cache
